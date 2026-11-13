@@ -1,0 +1,11 @@
+# Local working notes - not published
+fim-progress-autosave.md
+fim-progress-saved.md
+# Secrets - never commit
+*.key
+*-key.pem
+*.p12
+*.pfx
+id_*
+*token*
+.env
